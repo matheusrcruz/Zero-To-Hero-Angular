@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": 4.89
+    },
+    {
+      "id": 2,
+      "name": "Lapis",
+      "price": 2.99
+    },
+    {
+      "id": 3,
+      "name": "Tv LG",
+      "price": 10000.99
+    },
+    {
+      "id": 4,
+      "name": "Mac book",
+      "price": 12000.99
+    },
+    {
+      "id": 5,
+      "name": "Celular samsung S20",
+      "price": 5000.99
+    },
+    {
+      "id": 6,
+      "name": "Razer Phone",
+      "price": 18000.99
+    }
+  ]
+}
